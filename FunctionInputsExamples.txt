@@ -1,4 +1,4 @@
-Different inputs for function:
+Examples of different inputs for function:
 DtaPntBox(X, Y, Z, BoxColors, Colors, XTickName, 'Rel. int', 1, 44,'no','yes','Data points color gradient, Subgrups colors','yes');
 DtaPntBox(X, Y, Z, BoxColors, [], XTickName, 'Rel. int', 1, 44,'no','yes','Subgrups colors','yes');
 DtaPntBox(X, Y, Z, BoxColors, [], XTickName, 'Rel. int', 1, [],'no','yes','Subgrups colors, wo data points','yes');
